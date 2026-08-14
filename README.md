@@ -51,6 +51,7 @@ Demonstrates the digital preparation necessary to deploy an OS on unformatted st
   * Utilizing the Windows Media Creation Tool to flash the ISO image
   * Verifying partition scheme and boot media integrity
 * 🎥 **[Watch Stage 2 Video Walkthrough](www.youtube.com/watch?v=khKhPWUSp_I])**
+https://www.youtube.com/watch?v=khKhPWUSp_I
 
 ---
 
