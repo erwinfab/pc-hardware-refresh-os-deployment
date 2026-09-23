@@ -39,7 +39,7 @@ Focuses on safe component disassembly, thermal interface cleaning, and storage i
   * Heatsink removal and old thermal paste cleaning using isopropyl alcohol
   * Reapplication of thermal paste (pea/dot method) and heatsink remounting
   * Removal of the legacy drive and installation of the new 1TB SSD
-* 🎥 **[Watch Stage 1 Video Walkthrough](INSERT_YOUR_VIDEO_1_LINK_HERE)**
+* 🎥 **[Watch Stage 1 Video Walkthrough](INSERT_YOUR_VIDEO_1_LINK_HERE)** In process...
 
 ---
 
@@ -50,7 +50,7 @@ Demonstrates the digital preparation necessary to deploy an OS on unformatted st
   * Formatting and preparing the external media (Flash Drive / SD Card)
   * Utilizing the Windows Media Creation Tool to flash the ISO image
   * Verifying partition scheme and boot media integrity
-* 🎥 **[Watch Stage 2 Video Walkthrough](www.youtube.com/watch?v=khKhPWUSp_I])**
+* 🎥 **[Watch Stage 2 Video Walkthrough] (www.youtube.com/watch?v=khKhPWUSp_I])**
 https://www.youtube.com/watch?v=khKhPWUSp_I
 
 ---
@@ -62,7 +62,7 @@ Walks through booting the system from external media, partitioning the new drive
   * Accessing BIOS/UEFI settings and configuring boot priority
   * Initializing and selecting the new unallocated 1TB SSD in the Windows Setup installer
   * Completing the Out-of-Box Experience (OOBE), user account setup, and initial network/driver checks
-* 🎥 **[Watch Stage 3 Video Walkthrough](INSERT_YOUR_VIDEO_3_LINK_HERE)**
+* 🎥 **[Watch Stage 3 Video Walkthrough](INSERT_YOUR_VIDEO_3_LINK_HERE)**  In process...
 
 ---
 
