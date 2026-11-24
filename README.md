@@ -4,7 +4,7 @@ A comprehensive, three-stage walkthrough demonstrating physical hardware mainten
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project documents the end-to-end rejuvenation and operating system setup of a desktop system. It serves as a practical demonstration of hardware troubleshooting, thermal maintenance, component replacement, and OS installation procedures.
 
@@ -16,7 +16,7 @@ This project documents the end-to-end rejuvenation and operating system setup of
 
 ---
 
-## 🛠️ Tools & Materials Used
+## Tools & Materials Used
 
 * **Hardware & Consumables:**
   * Isopropyl alcohol (90%+) & lint-free microfiber wipes
@@ -29,7 +29,7 @@ This project documents the end-to-end rejuvenation and operating system setup of
 
 ---
 
-## 📺 Project Stages & Video Walkthroughs
+## Project Stages & Video Walkthroughs
 
 ### Stage 1: Physical Maintenance & Component Upgrade
 Focuses on safe component disassembly, thermal interface cleaning, and storage installation.
@@ -39,7 +39,7 @@ Focuses on safe component disassembly, thermal interface cleaning, and storage i
   * Heatsink removal and old thermal paste cleaning using isopropyl alcohol
   * Reapplication of thermal paste (pea/dot method) and heatsink remounting
   * Removal of the legacy drive and installation of the new 1TB SSD
-* 🎥 **[Watch Stage 1 Video Walkthrough](INSERT_YOUR_VIDEO_1_LINK_HERE)** In process...
+* **[Watch Stage 1 Video Walkthrough](INSERT_YOUR_VIDEO_1_LINK_HERE)** In process...
 
 ---
 
@@ -50,7 +50,7 @@ Demonstrates the digital preparation necessary to deploy an OS on unformatted st
   * Formatting and preparing the external media (Flash Drive / SD Card)
   * Utilizing the Windows Media Creation Tool to flash the ISO image
   * Verifying partition scheme and boot media integrity
-* 🎥 **[Watch Stage 2 Video Walkthrough](https://www.youtube.com/watch?v=khKhPWUSp_I))**
+* **[Watch Stage 2 Video Walkthrough](https://www.youtube.com/watch?v=khKhPWUSp_I))**
 
 ---
 
@@ -61,11 +61,11 @@ Walks through booting the system from external media, partitioning the new drive
   * Accessing BIOS/UEFI settings and configuring boot priority
   * Initializing and selecting the new unallocated 1TB SSD in the Windows Setup installer
   * Completing the Out-of-Box Experience (OOBE), user account setup, and initial network/driver checks
-* 🎥 **[Watch Stage 3 Video Walkthrough](INSERT_YOUR_VIDEO_3_LINK_HERE)**  In process...
+* **[Watch Stage 3 Video Walkthrough](INSERT_YOUR_VIDEO_3_LINK_HERE)**  In process...
 
 ---
 
-## 📋 Post-Installation Checklist
+## Post-Installation Checklist
 
 - [ ] Run Windows Update until fully up-to-date
 - [ ] Check Device Manager for missing hardware drivers (Chipset, GPU, Network)
